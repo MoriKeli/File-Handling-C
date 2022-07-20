@@ -1,0 +1,3 @@
+C:/Users/MORI/OneDrive/Documents/Coding/Console/C/Append data to a text file/cmake-build-debug/CMakeFiles/Append_data_to_a_text_file.dir
+C:/Users/MORI/OneDrive/Documents/Coding/Console/C/Append data to a text file/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MORI/OneDrive/Documents/Coding/Console/C/Append data to a text file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
